@@ -1,3 +1,4 @@
+#Simple calculator using Tkinter
 from tkinter import *
 
 root = Tk()
